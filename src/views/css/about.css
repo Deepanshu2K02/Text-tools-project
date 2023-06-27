@@ -1,0 +1,70 @@
+#about{
+    top: 10rem;
+    border-radius: 1rem;
+    width:80%;
+    margin: auto;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    background-color: var(--pri-col);
+    line-height: 1.1;
+}
+
+.notup{
+    text-transform: capitalize;
+}
+.abouttitle{
+    text-align: center;
+    color: #121F0D;
+    font-weight: 700;
+    font-size: 3rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.aboutintro{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+.aboutintro:hover{
+   border-radius: 1rem;
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+   cursor: pointer;
+}
+
+
+
+.aboutserviceitem:hover{
+    cursor: pointer;
+    border-radius: 1;
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.serviceintrotitle{
+    color: #121F0D;
+    font-weight: 700;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+.serviceitemtitle{
+    color: #00A9F1;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.serviceiteminfo{
+    margin-bottom: 1rem;
+}
+
+
+@media (max-width : 450px){
+    #about{
+        top: 12rem;
+        width:100%;
+        margin: auto;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+        background-color: var(--pri-col);
+        line-height: 1.1;
+        text-align: center;
+    }
+
+}

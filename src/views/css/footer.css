@@ -1,0 +1,19 @@
+footer{
+  background-color: black;
+  color: white;
+  position: static;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer i{
+  font-size: 1.2rem;
+}
+
+.textnone{
+    text-transform: none;
+}
