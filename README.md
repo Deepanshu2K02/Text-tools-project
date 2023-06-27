@@ -1,3 +1,3 @@
-Name : Deepanshu Kumar
-University : MNNIT Allahabad, Prayagraj
+Name : Deepanshu Kumar        
+University : MNNIT Allahabad, Prayagraj               
 Department : Chemical Engineering
