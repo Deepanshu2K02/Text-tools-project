@@ -1,3 +1,3 @@
-Name : Kartik Hatwar
-University : IIT(ISM) Dhanbad 
-Department : Electrical Engineering
+Name : Deepanshu Kumar
+University : MNNIT Allahabad, Prayagraj
+Department : Chemical Engineering
